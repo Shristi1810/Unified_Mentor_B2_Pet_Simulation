@@ -28,4 +28,7 @@ This is a MERN (MongoDB, Express.js, React.js, Node.js) stack project for a Pet 
 ## Acknowledgments
 
 - This project was inspired by the love for animals and the desire to help them find loving homes.
+
+## PREPARATIONS
+https://github.com/users/Shristi1810/projects/4?pane=info&statusUpdateId=73303
   
